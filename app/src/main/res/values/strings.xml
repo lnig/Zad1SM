@@ -3,6 +3,7 @@
     <string name="button_false">Fałsz</string>
     <string name="button_true">Prawda</string>
     <string name="button_next">Następne</string>
+    <string name="button_prompt">Podpowiedź</string>
 
     <string name="q_activity">Activity jest jednym z komponentów aplikacji Android</string>
     <string name="q_version">Android 8 jest najnowszą wersją systemu Android</string>
@@ -14,5 +15,13 @@
     <string name="incorrect_answer">Zła odpowiedź</string>
 
     <string name="result_message">Twój wynik: %1$d / %2$d</string>
+
+    <string name="are_you_sure">Czy chcesz zobaczyć podpowiedź?</string>
+
+    <string name="button_show_answer">Pokaż odpowiedź</string>
+
+    <string name="answer_was_shown">Odpowiedź była pokazana</string>
+
+    <string name="button_back">Powróciłeś</string>
 
 </resources>
